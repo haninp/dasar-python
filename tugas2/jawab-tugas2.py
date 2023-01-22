@@ -9,7 +9,7 @@ katabelakang="jangan loyo"
 # Soal 1
 print("Soal 1\n",separator2)
 print("jumlah char katatengah:",len(katatengah))
-print("jumlah char katatengah:",len(katabelakang))
+print("jumlah char katabelakang:",len(katabelakang))
 print("ada, perbedaan ada pada 'katabelakang' dimana pada variable katabelakang terdapat character spasi ' ' sehingga jumlah total char adalah 11")
 print(separator)
 
